@@ -61,6 +61,7 @@ const Container = styled.div`
     min-height: calc(100vh - 70px);
     position: relative;
     overflow: hidden;
+    margin-top: 70px;
 `
 
 const Background = styled.div`
