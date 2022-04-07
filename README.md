@@ -5,4 +5,4 @@ Deployed App => https://disney-plus-clone-62db6.web.app/login (not responsive, i
 
 App designed by -> Clever Programmer (Youtube)
 
-Note - The original app made by 'Clever Programmer' was different and had some bugs which dint allow it to function as expected when deployed, this app improves on that app and adds more functionality and features.
+Note - The original app made by 'Clever Programmer' had some bugs which dint allow it to function as expected. I have fixed these issues and now this deployed app works completely.
